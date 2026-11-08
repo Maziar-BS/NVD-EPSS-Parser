@@ -1,0 +1,3 @@
+# Needed to run nvd_epss_parser.py.
+pandas
+requests
